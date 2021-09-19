@@ -1,4 +1,6 @@
-# Lion BOT
+<div align="center">
+  <img src="https://cdn.discordapp.com/attachments/884562553773117461/889266487842439191/b8a60f248bb7c4581ec47dc70c85b54d.webp" width="300" style="border-radius: 50%;">
+</div>
 
 Uma simples e divertida aplicação para Discord desenvolvida em Python.
 
