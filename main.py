@@ -5,7 +5,6 @@ import time
 import os
 import re
 
-import aiohttp
 import discord
 from discord.ext import commands
 
@@ -83,4 +82,4 @@ async def uptime(ctx):
     embed.set_footer(text=f"Executado por {ctx.author}")
     await ctx.send(embed=embed)
 
-bot.run("ODU4MzgwOTMyMTg3OTQ3MDQ5.YNdTig.IYhOGbvZZm7LjN6-jbgsBBzpvFY")
+bot.run(TOKEN)
