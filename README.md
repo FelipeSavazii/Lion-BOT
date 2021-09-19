@@ -4,7 +4,7 @@ Uma simples e divertida aplicação para Discord desenvolvida em Python.
 
 ## Comandos:
 
-### • Utilidades:
+### Utilidades
 
 * avatar
 * botinfo
@@ -18,7 +18,7 @@ Uma simples e divertida aplicação para Discord desenvolvida em Python.
 * uptime
 * userinfo
 
-### • Diversão:
+### Diversão
 
 * ascii 
 * bobesponja 
@@ -40,12 +40,12 @@ Uma simples e divertida aplicação para Discord desenvolvida em Python.
 * sentar 
 * xbox
 
-### • Moderação:
+### Moderação
 
 * clear
 
 
-### • Música:
+### Música
 
 * join
 * leave
