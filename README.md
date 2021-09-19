@@ -1,4 +1,3 @@
-# Lion-BOT
+# Lion BOT
 
-Uma simples e divertida aplicação para Discord desenvolvida com Python.
-
+Uma simples e divertida aplicação para Discord desenvolvida em Python.
