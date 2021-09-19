@@ -31,16 +31,13 @@ Licenciado utilizando: [GNU General Public License v3.0](https://github.com/Feli
 ● bruno 
 ● captcha 
 ● conquista
-● deitar 
 ● ejetar 
 ● felipe 
-● invite 
 ● joebiden 
 ● laranjo 
-● levantar
 ● mchead 
 ● mcskin 
-● olhaso 
+● olhaso
 ● sentar 
 ● sentar 
 ● xbox
