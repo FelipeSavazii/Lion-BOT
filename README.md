@@ -12,7 +12,9 @@ Desenvolvedora oficial: [Orizon Studios](https://orizonstudios.com).
 
 Discord oficial: [Orizon Studios © - Lion BOT &#8482;](https://discord.gg/KSvuX2fpCn).
 
-Convite do Lion BOT: [Lion BOT &#8482;](https://discord.com/api/oauth2/authorize?client_id=858380932187947049&permissions=8&scope=bot).
+Convite do Lion BOT: [Lion BOT &#8482; - Convite](https://discord.com/api/oauth2/authorize?client_id=858380932187947049&permissions=8&scope=bot).
+
+Site oficial: [Lion BOT &#8482; - Site](https://lion-bot.com).
 
 ## Comandos:
 
