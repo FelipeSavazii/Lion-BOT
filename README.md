@@ -14,7 +14,7 @@ Discord oficial: [Orizon Studios © - Lion BOT &#8482;](https://discord.gg/KSvuX
 
 Convite para adicioná-lo: [Lion BOT &#8482;](https://discord.com/api/oauth2/authorize?client_id=858380932187947049&permissions=8&scope=bot).
 
-Site oficial: [lion-bot.com](https://lion-bot.com).
+Site oficial: [https://lion-bot.com](https://lion-bot.com).
 
 ## Comandos:
 
