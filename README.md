@@ -60,18 +60,3 @@ Site oficial: [https://lion-bot.com](https://lion-bot.com).
 ```
 ● clear
 ```
-
-### Música
-
-```
-● join
-● leave
-● lyrics
-● pause
-● play
-● queue
-● remove
-● resume
-● skip
-● volume
-```
