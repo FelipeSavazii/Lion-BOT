@@ -65,14 +65,12 @@ Site oficial: [https://lion-bot.com](https://lion-bot.com).
 
 ### Passo a passo:
 
-<ol>
-  <li>Baixe os arquivos do Lion BOT clicando [aqui](https://github.com/FelipeSavazii/Lion-BOT/archive/refs/heads/main.zip);</li>
-  <li>Acesse o [Discord Developers](https://discord.com/developers), crie uma nova aplicação e ative as intents;</li>
-  <li>Copie o token de sua aplicação;</li>
-  <li>Extraia os arquivos e troque o campo TOKEN na main por seu token, mas não se esqueça de colocá-lo entre aspas;</li>
-  <li>Após isso coloque os arquivos em uma hospedagem ou ligue-o no localhost;</li>
-  <li>Agora seu bot está online! Só edite o necessário e deixe ele com sua cara.</li>
-</ol>
+  1. Baixe os arquivos do Lion BOT clicando [aqui](https://github.com/FelipeSavazii/Lion-BOT/archive/refs/heads/main.zip);
+  2. Acesse o [Discord Developers](https://discord.com/developers), crie uma nova aplicação e ative as intents;
+  3. Copie o token de sua aplicação;
+  4. Extraia os arquivos e troque o campo TOKEN na main por seu token, mas não se esqueça de colocá-lo entre aspas;
+  5. Após isso coloque os arquivos em uma hospedagem ou ligue-o no localhost;
+  6. Agora seu bot está online! Só edite o necessário e deixe ele com sua cara.
 
 ### Bliotecas necessárias:
 
