@@ -23,8 +23,6 @@ class Serverinfo(commands.Cog):
         canaisdevoz = len(ctx.guild.voice_channels)
         categorias = len(ctx.guild.categories)
 
-        icon = str(ctx.guild.icon_url)
-
         if str(ctx.guild.verification_level) == "none":
             embed = discord.Embed(title="💻 Informações do servidor.\n",
                                   description=f"\n**{nome}**\n\n"
@@ -34,6 +32,7 @@ class Serverinfo(commands.Cog):
                                               f"**Membros**: {contagemdemembros}\n"
                                               f"**Nivel de verificação**: Desativado\n"
                                               f"**Bots**: {(', '.join(listadebots))}\n"
+                                  			  f"**Shard ID**: {ctx.guild.shard_id}\n"
                                               f"**Criado em**: {ctx.guild.created_at.strftime(format)}\n"
                                               f"**Número de cargos**: {str(numerodecargos)}\n"
                                               f" **Canais de texto:** {canaisdetexto}\n"
@@ -49,14 +48,18 @@ class Serverinfo(commands.Cog):
                                               f"**Membros**: {contagemdemembros}\n"
                                               f"**Nivel de verificação**: {str(ctx.guild.verification_level)}\n"
                                               f"**Bots**: {(', '.join(listadebots))}\n"
+                                  			  f"**Shard ID**: {ctx.guild.shard_id}\n"
                                               f"**Criado em**: {ctx.guild.created_at.strftime(format)}\n"
                                               f"**Número de cargos**: {str(numerodecargos)}\n"
                                               f" **Canais de texto:** {canaisdetexto}\n"
                                               f" **Canais de voz:** {canaisdevoz}\n"
                                               f" **Categorias:** {categorias}",
                                   color=color)
-
-        embed.set_thumbnail(url=icon)
+        try:
+            icon = str(ctx.guild.icon.url)
+            embed.set_thumbnail(url=icon)
+        except:
+            pass
         embed.set_footer(text=f"Executado por {ctx.author}")
 
         await ctx.send(embed=embed)
