@@ -60,3 +60,11 @@ Site oficial: [https://lion-bot.com](https://lion-bot.com).
 ```
 ● clear
 ```
+
+## Como usar:
+
+### Bliotecas necessárias:
+
+[Discord.py](https://github.com/Rapptz/discord.py/)
+
+**OBS**: Para instalar as versões certas das bibliotecas copie o arquivo [requirements.txt](https://github.com/FelipeSavazii/Lion-BOT/blob/main/requirements.txt) e cole no mesmo local da main da sua aplicação. 
