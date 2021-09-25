@@ -63,6 +63,17 @@ Site oficial: [https://lion-bot.com](https://lion-bot.com).
 
 ## Como usar:
 
+### Passo a passo:
+
+<ol>
+  <li>Baixe os arquivos do Lion BOT clicando [aqui](https://github.com/FelipeSavazii/Lion-BOT/archive/refs/heads/main.zip);</li>
+  <li>Acesse o [Discord Developers](https://discord.com/developers), crie uma nova aplicação e ative as intents;</li>
+  <li>Copie o token de sua aplicação;</li>
+  <li>Extraia os arquivos e troque o campo TOKEN na main por seu token, mas não se esqueça de colocá-lo entre aspas;</li>
+  <li>Após isso coloque os arquivos em uma hospedagem ou ligue-o no localhost;</li>
+  <li>Agora seu bot está online! Só edite o necessário e deixe ele com sua cara.</li>
+</ol>
+
 ### Bliotecas necessárias:
 
 [Discord.py](https://github.com/Rapptz/discord.py/)
