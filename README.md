@@ -8,7 +8,7 @@
 
 Licenciado utilizando: [GNU General Public License v3.0](https://github.com/FelipeSavazii/Lion-BOT/blob/main/LICENSE).
 
-Desenvolvedora oficial: [Orizon Studios](https://orizonstudios.com).
+Desenvolvedora oficial: [Earthcompany](https://earthcompany.com.br).
 
 Discord oficial: [Orizon Studios © - Lion BOT &#8482;](https://discord.gg/KSvuX2fpCn).
 
