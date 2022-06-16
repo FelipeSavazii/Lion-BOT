@@ -31,6 +31,6 @@ Comandos: [https://lion-bot.com/comandos](https://lion-bot.com/comandos).
 
 ### Bliotecas necessárias:
 
-[Discord.py](github.com/Pycord-Development/Pycord/)
+[Py-cord](github.com/Pycord-Development/Pycord/)
 
 **OBS**: Para instalar as versões certas das bibliotecas copie o arquivo [requirements.txt](https://github.com/FelipeSavazii/Lion-BOT/blob/main/requirements.txt) e cole no mesmo local da main da sua aplicação e depois execute `pip install -r requirements.txt`.
